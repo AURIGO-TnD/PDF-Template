@@ -1,0 +1,31 @@
+/* Position paragraph elements. */
+div.p,
+p,
+.p {
+  display: block;
+  padding: 0px;
+  margin: 5px 0px 0px 0px;
+}
+
+/* Make the first paragraph inline in the following elements. 
+
+NOTE: May cause issues with the following structure:
+<note> text_string
+<p> another text_string </p> */
+.info > p:first-child,
+.result > p:first-child,
+.example > p:first-child,
+.stepresult > p:first-child,
+.stepxmp > p:first-child,
+.note__title ~ p:first-of-type,
+.cause > .title ~ p,
+.remedy > .title ~ p {
+  display: inline;
+}
+
+/* If a block element is placed in a paragraph, discard its margins. */
+div.p > *:only-child,
+p > *:only-child,
+.p > *:only-child {
+  margin: 0px;
+}
