@@ -44,7 +44,7 @@
 /* BODY */
 @page:left{
     @top-right{
-        content: "Aurigo Software Technologies";
+        content: "Masterworks Online Help";
         letter-spacing: 0.025em;
         line-height: 1em;
         font-weight: bold;
@@ -57,7 +57,7 @@
         font-style: normal;
         font-weight: bold;
         text-transform: none;
-        content: "Masterworks Online Help";
+        content: "";
         letter-spacing: 0.025em;
         line-height: 1em;
     }
@@ -86,7 +86,7 @@
 
 @page:right{
     @top-right{
-        content: "Aurigo Software Technologies";
+        content: "Masterworks Online Help";
         letter-spacing: 0.025em;
         line-height: 1em;
         font-weight: bold;
@@ -99,7 +99,7 @@
         font-style: normal;
         font-weight: bold;
         text-transform: none;
-        content: "Masterworks Online Help";
+        content: "";
         letter-spacing: 0.025em;
         line-height: 1em;
     }
