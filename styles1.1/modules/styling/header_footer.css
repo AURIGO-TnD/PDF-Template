@@ -62,7 +62,7 @@
         line-height: 1em;
     }
     @bottom-left{
-        content: "";
+        content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #fff;
         font-style: normal;
@@ -104,7 +104,7 @@
         line-height: 1em;
     }
     @bottom-left{
-        content: "";
+        content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #fff;
         font-style: normal;
