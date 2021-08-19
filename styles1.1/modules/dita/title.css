@@ -16,8 +16,8 @@ Ensure that the titles children are styled in a consistent way. */
 .table--title-label,
 .fig--title-label,
 figcaption:not(figcaption > .desc) {
-  font-family: "Roboto", Helvetica, Arial;
-  color: #000;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  color: #2d9ed0;
   border: none;
   text-align: left;
   font-style: normal;
