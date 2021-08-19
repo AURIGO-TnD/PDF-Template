@@ -1,7 +1,7 @@
 /* Style uicontrol elements. */
 .uicontrol {
   font-weight: bold;
-  color: #000;
+  color: #6a737d !important;
 }
 
 /* Style wintitle elements. */
