@@ -1,7 +1,7 @@
 /* Add image borders to image elements. */
 .image,
 .body img {
-    border: 5px solid #000;
+    border: 1px solid #2d9ed0 !important;
 }
 
 /* Disable image borders by assigning the @outputclass="no_borders" attribute to the image element. */
