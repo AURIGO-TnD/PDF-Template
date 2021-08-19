@@ -5,9 +5,9 @@ body > .topictitle1 {
 
 /* Add a custom TOC heading. */
 nav > ul:first-child::before { 
-    content: "Contents";
+    content: "Table of Contents";
     font-size: 42px;
-    color: #000;
+    color: #2d9ed0 !important;
     text-align: left;
     font-style: normal;
     font-weight: bold;
