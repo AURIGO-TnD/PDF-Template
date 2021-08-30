@@ -41,6 +41,7 @@ tr > td {
   font-weight: normal !important;
   color: #000 !important;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  text-align: left !important;
 }
 
 th,
