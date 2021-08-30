@@ -41,7 +41,7 @@ figcaption:not(figcaption > .desc) {
 .table--title-label,
 .fig--title-label,
 .table > caption > .title {
-  letter-spacing: 0.025em;
+  letter-spacing: 0.02em;
 }
 
 /* Add top margins before chapters (level-1 topics) that do not contain children topics. */
