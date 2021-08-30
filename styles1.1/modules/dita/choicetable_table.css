@@ -10,7 +10,7 @@ table,
 table * {
   border-collapse: collapse;
   border: none !important; /* needed to overwrite the default site styling. */
-  text-align: left;
+  text-align: center;
 }
 
 /* Add a top-border for tables that do not contain thead elements. */
@@ -29,7 +29,6 @@ td {
 
 /* Style the table and choicetable headers. 
 Assert the same styling in table and choicetable headers and their children elements. */
-tr,
 th,
 th * {
   font-weight: bold !important; /* The important property seems to be needed to overwrite the default PDF Gen and SSG styling */
@@ -38,6 +37,12 @@ th * {
   padding: 10px;
   letter-spacing: 0.5px;
 }
+tr > td {
+  font-weight: normal !important;
+  color: #fff !important;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
 th,
 th *,
 th > .fn::footnote-call {
