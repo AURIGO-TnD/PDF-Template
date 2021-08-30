@@ -13,14 +13,14 @@ table * {
   text-align: center;
 }
 
-/* Add a top-border for tables that do not contain thead elements. */
+/* Add a top-border for tables that do not contain thead elements.
 table {
   border-top: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling */
   border-bottom: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling */
 }
 table:has(thead) {
   border-top: none;
-}
+}*/
 
 /* Set padding for table entries. */
 td {
@@ -41,7 +41,7 @@ tr > td {
   font-weight: normal !important;
   color: #000 !important;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
-  text-align: left !important;
+  text-align: justify !important;
 }
 
 th,
