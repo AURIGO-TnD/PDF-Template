@@ -8,7 +8,7 @@ nav ul {
 }
 nav ul li:before {
   counter-increment: toc_level1;
-  content: "Chapter " counter(toc_level1) ". ";
+  content: counter(toc_level1) ". ";
 }
 nav ul ul {
   counter-reset: toc_level2;
@@ -55,7 +55,7 @@ nav ul li ul li ul li ul li ul li:before {
 /* Level 1 (chapter-level) topic title numbering. */
 article > .topictitle1:before {
   counter-increment: section_level1;
-  content: "Chapter " counter(section_level1) ". ";
+  content: counter(section_level1) ". ";
 }
 article > .topictitle1 {
   counter-reset: section_level2;
