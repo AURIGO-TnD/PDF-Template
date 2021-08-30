@@ -15,8 +15,8 @@ table * {
 
 /* Add a top-border for tables that do not contain thead elements.
 table {
-  border-top: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling */
-  border-bottom: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling */
+  border-top: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling
+  border-bottom: 3px solid #000 !important; /* The important property seems to be needed to overwrite the default SSG styling
 }
 table:has(thead) {
   border-top: none;
