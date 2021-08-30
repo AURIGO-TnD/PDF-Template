@@ -1,6 +1,7 @@
 /* Style figure descriptions and table descriptions. */
 .figdesc,
 .tabledesc {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   display: block;
   clear: both;
   margin: 0px 0px 2.5px 0px;
