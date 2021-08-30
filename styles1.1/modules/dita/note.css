@@ -1,6 +1,6 @@
 /* Import icons/font. */
 @font-face {
-  font-family: icomoon;
+  font-family:'Open Sans', 'Helvetica Neue', sans-serif;
   src: url("https://jorsek.github.io/pdfgen.github.io/fonts/note_icons/fonts/icomoon.ttf") format("truetype");
 }
 /* Style any note type. */
@@ -37,7 +37,7 @@
 /* Style the font containing icons preceding note captions. */
 .note__title::before {
   display: inline-block;
-  font-family: icomoon;
+  font-family:'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 13px;
   padding-right: 3.5px;
 }
