@@ -17,6 +17,7 @@ Assert the same styling in definition titles and their children elements. */
 .dt,
 .dt * {
   color: #000;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   font-weight: bold;
   font-style: normal;
   font-size: 16px;
