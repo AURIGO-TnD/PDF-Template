@@ -34,12 +34,13 @@
   */
 }
 
-/* Style the font containing icons preceding note captions. */
+/* Style the font containing icons preceding note captions.
 .note__title::before {
   display: inline-block;
   font-family:'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 13px;
   padding-right: 3.5px;
+  */
 }
 
 /* Style the note element contents with the @type="note", @type="", and @type="trouble" attributes assigned. */
