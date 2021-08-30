@@ -115,6 +115,7 @@ li.substep > strong {
   margin-top: -24px;
   margin-left: 2px;
   letter-spacing: 0.025em;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   font-weight: bold;
 }
 strong ~ .cmd {
