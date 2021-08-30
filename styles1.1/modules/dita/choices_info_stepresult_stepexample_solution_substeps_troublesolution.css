@@ -27,6 +27,7 @@ Span the left border across the cause and remedy elements. */
 .stepresult::before,
 .info::before,
 .stepxmp::before {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   font-weight: bold;
   font-style: normal;
   letter-spacing: 0.025em;
