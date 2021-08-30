@@ -2,6 +2,7 @@
 p,
 .p {
   display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   padding: 0px;
   margin: 5px 0px 0px 0px;
 }
