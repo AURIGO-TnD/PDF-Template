@@ -7,7 +7,7 @@
         letter-spacing: 0.025em;
         color: #fff;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-size:15px;
         font-style: normal;
         font-weight: bold;
@@ -28,7 +28,7 @@
         font-size:15px;
         color: #fff;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-style: normal;
         font-weight: bold;
         
@@ -67,14 +67,14 @@
         color: #fff;
         font-style: normal;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-size: 15px;
         font-weight: bold;
     }
     @bottom-right {
         font-size: 15px;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
@@ -109,14 +109,14 @@
         color: #fff;
         font-style: normal;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-size: 15px;
         font-weight: bold;
     }
     @bottom-right {
         font-size: 15px;
         border: none;
-        background-color: #303846 !important;
+        background-color: #2d9ed0 !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
