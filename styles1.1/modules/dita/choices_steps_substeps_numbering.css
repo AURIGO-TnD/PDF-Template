@@ -9,8 +9,8 @@ li.substep::before,
 li.choice::before {
   margin: 0px 10px 0px -31px;
   display: inline-block;
-  box-sizing: border-box;
-  border-radius: 50%;
+  /*box-sizing: border-box;
+  border-radius: 50%;*/
   background-color: #000;
   width: 1.5rem;
   height: 1.5rem;
