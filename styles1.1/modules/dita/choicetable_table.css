@@ -5,13 +5,13 @@ table {
   table-layout: auto;
 }
 
-/* Remove the table and choicetable borders completely.
+/* Remove the table and choicetable borders completely.*/
 table,
 table * {
   border-collapse: collapse;
   border: none !important; /* needed to overwrite the default site styling. */
   text-align: center;
-}*/
+}
 
 /* Add a top-border for tables that do not contain thead elements.
 table {
