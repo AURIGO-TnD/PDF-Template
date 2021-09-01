@@ -9,7 +9,7 @@ table {
 table,
 table * {
   border-collapse: collapse;
-  border: none !important; /* needed to overwrite the default site styling. */
+  border: 1px #000 !important; /* needed to overwrite the default site styling. */
   text-align: center;
 }
 
