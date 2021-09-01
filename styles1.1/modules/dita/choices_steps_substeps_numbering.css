@@ -3,7 +3,7 @@
  * ordered_list_unordered_list_step_substep_choice.css
  */
 
-/* Style step, substep, and choice elements.
+/* Style step, substep, and choice elements.*/
 li.step::before,
 li.substep::before,
 li.choice::before {
@@ -20,7 +20,7 @@ li.choice::before {
   color: #fff;
   text-align: center;
   vertical-align: center;
-}*/
+}
 
 /* Implement custom steps, substeps, and choices numbering. */
 ol.steps,
