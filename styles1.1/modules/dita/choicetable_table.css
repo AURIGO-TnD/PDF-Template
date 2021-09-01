@@ -3,15 +3,17 @@ table {
   width: 100%; /* 100% shows a vertical scrollbar on sites. */
   margin: 5px 0px 5px 0px;
   table-layout: auto;
+  border-collapse: collapse;
+  text-align: center;
+  border: 1px solid #000 !important; /* needed to overwrite the default site styling. */
 }
 
-/* Remove the table and choicetable borders completely.*/
+/* Remove the table and choicetable borders completely.
 table,
 table * {
   border-collapse: collapse;
-  border: 1px solid #000 !important; /* needed to overwrite the default site styling. */
-  text-align: center;
-}
+  ;
+}*/
 
 /* Add a top-border for tables that do not contain thead elements.
 table {
@@ -52,17 +54,17 @@ th > .fn::footnote-call {
   background-color: #000;
 }
 
-/* Style uneven table and choicetable rows. */
+/* Style uneven table and choicetable rows.
 tr:nth-child(odd) > td {
   background-color: #fff;
   vertical-align: top;
 }
 
-/* Style even table and choicetable rows. */
+Style even table and choicetable rows.
 tr > td {
   background-color: #F4F4F4;
   vertical-align: top;
-}
+}*/
 
 /* Support text alignment in tables */
 table .align-right,
