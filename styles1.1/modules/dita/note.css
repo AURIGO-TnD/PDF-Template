@@ -37,7 +37,7 @@
 
 /* Style the font containing icons preceding note captions.*/
 .note__title::before {
-  display: inline-block;
+  display: none;
   font-family:'Open Sans', 'Helvetica Neue', sans-serif !important;
   font-size: 13px;
   padding-right: 3.5px;
