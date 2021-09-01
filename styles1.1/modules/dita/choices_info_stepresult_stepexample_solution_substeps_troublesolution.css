@@ -12,8 +12,8 @@ Style trouble solution elements. */
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
   font-weight: normal;
   border-left: none !important;
-  margin: 2.5px 0px 5px 1px;
-  padding: 0px 0px 0px 10px;
+  margin: 2.5px 0px 5px 0px;
+  padding: 0px 0px 0px 0px;
 }
 
 /* Style trouble solution element. Add a margin between trouble solution elements.
