@@ -58,17 +58,17 @@ th > .fn::footnote-call {
   background-color: #000;
 }
 
-/* Style uneven table and choicetable rows.
+/* Style uneven table and choicetable rows.*/
 tr:nth-child(odd) > td {
   background-color: #fff;
   vertical-align: top;
 }
 
-Style even table and choicetable rows.
+/*Style even table and choicetable rows.*/
 tr > td {
-  background-color: #F4F4F4;
+  background-color: #fff !important;
   vertical-align: top;
-}*/
+}
 
 /* Support text alignment in tables */
 table .align-right,
