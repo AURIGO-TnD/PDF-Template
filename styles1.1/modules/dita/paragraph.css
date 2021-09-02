@@ -26,3 +26,12 @@ p,
 p:has(.note:only-child, .codeblock:first-child, .fig:first-child, .image:first-child, .lq:first-child, table:first-child, dl:first-child) {
   margin: 0px;
 }
+
+/*This style is for Context content when placed outside paragraph tag*/
+context {
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  padding: 0px;
+  margin: 15px 0px 0px 0px;
+  text-align: justify !important;
+}
