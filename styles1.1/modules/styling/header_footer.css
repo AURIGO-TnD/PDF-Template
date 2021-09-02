@@ -63,7 +63,7 @@
         font-style: normal;
         font-weight: bold;
         text-transform: none;
-        content: "";
+        content: url("https://github.com/AURIGO-TnD/PDF-Template/blob/main/styles1.1/media/MW_Small_Logo.png");
         letter-spacing: 0.025em;
         line-height: 1em;
     }
