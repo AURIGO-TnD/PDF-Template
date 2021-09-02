@@ -6,7 +6,7 @@ p,
   padding: 0px;
   margin: 15px 0px 0px 0px;
   text-align: justify !important;
-  line-height: 0.5em;
+  line-height: 0.5em !important;
 }
 
 /* Make the first paragraph inline in the following elements. */
