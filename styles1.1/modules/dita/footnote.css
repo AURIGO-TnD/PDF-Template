@@ -28,13 +28,12 @@
   padding: 0px;
   margin: 0px;
   color: #404040;
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   font-style: normal;
   font-weight: normal;
   text-align: left;
   text-decoration: none;
   border: none;
-  font-family: "Roboto", Helvetica, Arial;
   letter-spacing: normal;
 }
 /* Assert that italic text is correctly rendered in footnotes. */
