@@ -18,7 +18,6 @@ Align unordered lists with ordered lists. */
 .li .p {
   font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   margin-top: 5px;
-  line-height: 130%
 }
 
 /* Style step, substep, and choice elements. */
