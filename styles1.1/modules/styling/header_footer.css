@@ -67,24 +67,7 @@
         letter-spacing: 0.025em;
         line-height: 1em;
     }
-   .logo-container {
-    display: block;
-    clear: both;
-    position: absolute;
-    padding: 0px;
-    margin: 0px;
-    top: 25px;
-    left: 15mm;
-    height: 55px;
-    width: 75px;
-  }
-  
-  /* Define where the actual logo is placed in the <div class="logo-container"> */
-  .logo {
-    display: block;
-    float: right;
-  }
-    @bottom-left{
+      @bottom-left{
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #fff;
