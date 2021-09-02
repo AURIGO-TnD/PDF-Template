@@ -23,7 +23,7 @@
   
   /* Apply the typography settings to the cover page. */
   .cover-page-container * {
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   }
   
   /* Define the space where the title can be placed. */
