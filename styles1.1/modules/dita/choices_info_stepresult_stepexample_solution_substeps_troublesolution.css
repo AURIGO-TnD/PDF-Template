@@ -9,7 +9,7 @@ Style trouble solution elements. */
 .choices,
 .substeps {
   font-style: normal;
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   font-weight: normal;
   border-left: none !important;
   margin: 2.5px 0px 5px 0px;
@@ -27,7 +27,7 @@ Span the left border across the cause and remedy elements. */
 .stepresult::before,
 .info::before,
 .stepxmp::before {
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   font-weight: bold;
   font-style: normal;
   letter-spacing: 0.025em;
