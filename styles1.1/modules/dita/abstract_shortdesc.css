@@ -3,7 +3,7 @@ Apply default styling. */
 .abstract,
 .shortdesc {
     font-style: normal;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
     color: #000;
 }
 
