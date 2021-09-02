@@ -8,7 +8,7 @@
         color: #fff;
         border: none;
         background-color: #2d9ed0 !important;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-size:15px;
         font-style: normal;
         font-weight: bold;
@@ -19,7 +19,7 @@
         letter-spacing: 0.025em;
         border: none;
         background-color: #000;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
     }
 }
 
@@ -31,7 +31,7 @@
         color: #fff;
         border: none;
         background-color: #2d9ed0 !important;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: bold;
         
@@ -41,7 +41,7 @@
         letter-spacing: 0.025em;
         border: none;
         background-color: #000;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
     }
 }
 
@@ -51,7 +51,7 @@
         content: "Masterworks Online Help";
         letter-spacing: 0.025em;
         line-height: 1em;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-weight: bold;
         color: #000;
         font-size: 15px;
@@ -59,7 +59,7 @@
     @top-left{
         font-size: 15px;
         color: #000;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: bold;
         text-transform: none;
@@ -71,7 +71,7 @@
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #fff;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         border: none;
         background-color: #2d9ed0 !important;
@@ -82,7 +82,7 @@
         font-size: 15px;
         border: none;
         background-color: #2d9ed0 !important;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
@@ -97,7 +97,7 @@
         content: "Masterworks Online Help";
         letter-spacing: 0.025em;
         line-height: 1em;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-weight: bold;
         color: #000;
         font-size: 15px;
@@ -105,7 +105,7 @@
     @top-left{
         font-size: 15px;
         color: #000;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: bold;
         text-transform: none;
@@ -117,7 +117,7 @@
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #fff;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         border: none;
         background-color: #2d9ed0 !important;
@@ -128,7 +128,7 @@
         font-size: 15px;
         border: none;
         background-color: #2d9ed0 !important;
-        font-family: 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
