@@ -9,7 +9,7 @@
         border: none;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
-        font-size:15px;
+        font-size:14px;
         font-style: normal;
         font-weight: bold;
         
@@ -27,7 +27,7 @@
     @bottom-left{
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
-        font-size:15px;
+        font-size:14px;
         color: #09516e !important;
         border: none;
         background-color: #fff !important;
@@ -54,10 +54,10 @@
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-weight: bold;
         color: #09516e !important;
-        font-size: 15px;
+        font-size: 14px;
     }
     @top-left{
-        font-size: 15px;
+        font-size: 14px;
         color: #09516e !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
@@ -75,17 +75,17 @@
         font-style: normal;
         border: none;
         background-color: #fff !important;
-        font-size: 15px;
+        font-size: 14px;
         font-weight: bold;
     }
     @bottom-right {
-        font-size: 15px;
+        font-size: 14px;
         border: none;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
-        font-size: 15px;
+        font-size: 14px;
         color: #09516e !important;
         font-weight: bold;
         content: counter(page);
@@ -100,10 +100,10 @@
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-weight: bold;
         color: #09516e !important;
-        font-size: 15px;
+        font-size: 14px;
     }
     @top-left{
-        font-size: 15px;
+        font-size: 14px;
         color: #09516e !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
@@ -121,17 +121,17 @@
         font-style: normal;
         border: none;
         background-color: #fff !important;
-        font-size: 15px;
+        font-size: 14px;
         font-weight: bold;
     }
     @bottom-right {
-        font-size: 15px;
+        font-size: 14px;
         border: none;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
-        font-size: 15px;
+        font-size: 14px;
         color: #09516e !important;
         font-weight: bold;
         content: counter(page);
