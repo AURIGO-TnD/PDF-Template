@@ -33,6 +33,7 @@ td {
 Assert the same styling in table and choicetable headers and their children elements. */
 th,
 th *{
+  font-family:'Arial', 'Helvetica Neue', sans-serif !important;
   font-weight: bold !important; /* The important property seems to be needed to overwrite the default PDF Gen and SSG styling */
   color: #000 !important; /* The important property seems to be needed to overwrite the default PDF Gen and SSG styling */
   padding: 10px;
