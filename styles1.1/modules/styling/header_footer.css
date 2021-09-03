@@ -7,7 +7,7 @@
         letter-spacing: 0.025em;
         color: #fff;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-size:15px;
         font-style: normal;
@@ -30,7 +30,7 @@
         font-size:15px;
         color: #fff;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: bold;
@@ -70,23 +70,23 @@
       @bottom-left{
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
-        color: #fff;
+        color: #000;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-size: 15px;
         font-weight: bold;
     }
     @bottom-right {
         font-size: 15px;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
-        color: #fff;
+        color: #000;
         font-weight: bold;
         content: counter(page);
     }
@@ -116,23 +116,23 @@
     @bottom-left{
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
-        color: #fff;
+        color: #000;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-size: 15px;
         font-weight: bold;
     }
     @bottom-right {
         font-size: 15px;
         border: none;
-        background-color: #2d9ed0 !important;
+        background-color: none !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
         font-size: 15px;
-        color: #fff;
+        color: #000;
         font-weight: bold;
         content: counter(page);
         letter-spacing: 0.025em;
