@@ -6,7 +6,7 @@
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         color: #09516e !important;
-        border: none;
+        border: 1px solid #000;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-size:14px;
@@ -29,7 +29,7 @@
         letter-spacing: 0.025em;
         font-size:14px;
         color: #09516e !important;
-        border: none;
+        border: 1px solid #000;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
