@@ -18,7 +18,7 @@
         content: "";
         letter-spacing: 0.025em;
         border: none;
-        background-color: #000;
+        background-color: #fff;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
     }
 }
@@ -28,7 +28,7 @@
         content: "© Aurigo Software Technologies Inc.";
         letter-spacing: 0.025em;
         font-size:15px;
-        color: #fff;
+        color: #000;
         border: none;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
@@ -40,7 +40,7 @@
         content: "";
         letter-spacing: 0.025em;
         border: none;
-        background-color: #000;
+        background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
     }
 }
@@ -81,7 +81,7 @@
     @bottom-right {
         font-size: 15px;
         border: none;
-        background-color: none !important;
+        background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
         font-weight: normal;        
