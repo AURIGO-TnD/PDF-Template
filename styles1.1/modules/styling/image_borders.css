@@ -2,6 +2,7 @@
 .image,
 .body img {
     border: 1px solid #dadde1 !important;
+    margin: 0px 0px 0px 0px !important;
 }
 /* Figure */
 .fig > img.image {
