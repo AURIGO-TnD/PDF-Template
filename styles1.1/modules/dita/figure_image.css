@@ -1,9 +1,14 @@
 /* Position figure elements. */
-.fig,
-.image {
+.fig {
   overflow: auto;
   padding: 0px;
   margin: 10px 0px 10px 0px;
+}
+/*Position image elements.*/
+.image {
+  overflow: auto;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 /* Prevent large images from overflowing. */
