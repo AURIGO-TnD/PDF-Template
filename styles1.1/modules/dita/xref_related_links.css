@@ -6,10 +6,15 @@ a {
 /* Style inline cross-references. */
 .xref,
 .link {
-  color: #000;
+  color: #0066CC !important;
   text-decoration: none;
   font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   font-size: 16px;
+}
+/*Underline when hover over the link*/
+.xref,
+.link a:hover {
+  text-decoration: underline;
 }
 
 /* Correctly display links to steps. */
@@ -40,7 +45,7 @@ li.linklist {
   font-weight: bold;
   font-size: 20px;
   letter-spacing: 0.025em;
-  color: #000;
+  color: #0066CC !important;
 }
 .linklist > strong {
   margin-top: 15px;
