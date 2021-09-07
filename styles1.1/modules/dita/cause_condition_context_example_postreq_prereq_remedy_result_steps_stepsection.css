@@ -63,7 +63,7 @@
 
 /* Add captions before prerequisite elements. */
 .prereq::before {
-  content: "Before you begin";
+  content: "Before You Begin";
 }
 
 /* Add captions before postrequisite elements. */
@@ -81,7 +81,7 @@ article.process .steps-unordered::before {
 Prevent the process-topic children from inheriting the "Process" caption. */
 article:not(.process) .steps::before,
 article:not(.process) .steps-unordered::before {
-  content: "Procedure";
+  content: "Steps";
 }
 
 /* Hide the caption before steps elements if a stepsection element precedes the first step. */
