@@ -98,7 +98,7 @@ article:not(.process) .steps-unordered::before {
 
 /* Add captions before context elements. */
 .context::before {
-  content: "Context";
+  content: "Overview";
 }
 
 /* Add captions before condition elements. */
