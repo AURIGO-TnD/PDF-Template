@@ -22,6 +22,7 @@ figcaption:not(figcaption > .desc) {
   text-align: left;
   font-style: normal;
   font-weight: bold;
+  font-size: 14px !important;
   word-wrap: break-word;
   line-height: 1.2em;
   background-color: transparent;
@@ -117,11 +118,4 @@ article:has(.topictitle1, :not(article)) {
 .topic > .title,
 .sectiontitle {
   margin-left: -0.05em;
-}
-
-/* Decrease font size of figure title and caption. */
-.table--title-label,
-.fig--title-label,
-figcaption:not(figcaption > .desc) {
-  font-size: 14px;
 }
