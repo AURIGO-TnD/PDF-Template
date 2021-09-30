@@ -54,7 +54,7 @@
         font-style: normal;
         font-weight: bold;
         text-transform: none;
-        content: "{map.title}";
+        content: {map.title};
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         letter-spacing: 0.025em;
         line-height: 1em;
@@ -100,7 +100,7 @@
 
 @page:right{
     @top-right{
-        content: "{map.title}";
+        content: {map.title};
         letter-spacing: 0.025em;
         line-height: 1em;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
