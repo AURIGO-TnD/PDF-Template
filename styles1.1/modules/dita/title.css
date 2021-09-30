@@ -118,3 +118,9 @@ article:has(.topictitle1, :not(article)) {
 .sectiontitle {
   margin-left: -0.05em;
 }
+
+/* Decrease font size of figure title and caption. */
+.table--title-label,
+.fig--title-label,
+figcaption:not(figcaption > .desc) {
+  font-size: 14px;
