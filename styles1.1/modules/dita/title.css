@@ -124,6 +124,4 @@ article:has(.topictitle1, :not(article)) {
 .fig--title-label,
 figcaption:not(figcaption > .desc) {
   font-size: 14px;
-  caption-side: bottom;
-  text-align: center;
 }
