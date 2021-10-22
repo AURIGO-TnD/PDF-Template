@@ -41,12 +41,10 @@ th *{
   background-color: #A9A9A9 !important;
 }
 th, td {
-  border: 1px solid #000;
-  color: #000 !important;
+  border: 1px solid #000
 }
 tr > td {
   font-weight: normal !important;
-  color: #000 !important;
   font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
   text-align: left !important;
 }
