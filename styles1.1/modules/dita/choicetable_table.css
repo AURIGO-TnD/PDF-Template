@@ -5,7 +5,6 @@ table {
   table-layout: auto;
   border-collapse: collapse;
   text-align: center;
-  vertical-align: center;
   border: 1px solid #000 !important; /* needed to overwrite the default site styling. */
 }
 
